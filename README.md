@@ -39,4 +39,4 @@ The model is trained using the training dataset, and its performance is evaluate
 An interactive interface is created using Gradio, allowing users to draw digits on a sketchpad and get real-time predictions. The interface leverages the pre-trained model to classify the drawn digits.
 
 
-![model-scheme](C:\Users\mar27\OneDrive\Documentos\GitHub\ocr-mnist-tensorflow\mnist_model.h5.png)
+![model-scheme](https://github.com/MarBenitez/ocr-mnist-tensorflow/blob/main/ocr_mnist.ipynb)
